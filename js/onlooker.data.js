@@ -3,126 +3,126 @@ const videoPrefix = "https://www.bilibili.com/video/";
 var onlookerStoryData = {
     "title": "全录播列表",
     "code": "s00-00",
-    "img": cdnPrefix+"@0.4/img/s00_00.webp",
+    "img": cdnPrefix+"@0.5/img/s00_00.webp",
     "children": [
         {
             "title": "序章",
             "code": "s00-01",
-            "img": cdnPrefix+"@0.4/img/s00_01.webp",
+            "img": cdnPrefix+"@0.5/img/s00_01.webp",
             "children": [
                 {
                     "title": "第一章 失意殿堂",
                     "code": "s01-01",
-                    "img": cdnPrefix+"@0.4/img/s01_01.webp",
+                    "img": cdnPrefix+"@0.5/img/s01_01.webp",
                     "children": [
                         {
                             "title": "第二章 日光眩晕症",
                             "code": "s02-01",
-                            "img": cdnPrefix+"@0.4/img/s02_01.webp",
+                            "img": cdnPrefix+"@0.5/img/s02_01.webp",
                             "children": [
                                 {
                                     "title": "第三章 扎伊尔",
                                     "code": "s03-01",
-                                    "img": cdnPrefix+"@0.4/img/s03_01.webp",
+                                    "img": cdnPrefix+"@0.5/img/s03_01.webp",
                                     "children": [
                                         {
                                             "title": "第四章 邮差总按两次铃",
                                             "code": "s04-01",
-                                            "img": cdnPrefix+"@0.4/img/s04_01.webp",
+                                            "img": cdnPrefix+"@0.5/img/s04_01.webp",
                                             "children": [
                                                 {
                                                     "title": "第五章 破碎故事之心",
                                                     "code": "s05-01",
-                                                    "img": cdnPrefix+"@0.4/img/s05_01.webp",
+                                                    "img": cdnPrefix+"@0.5/img/s05_01.webp",
                                                     "children": [
                                                         {
                                                             "title": "第六章 石中蛇",
                                                             "code": "s06-01",
-                                                            "img": cdnPrefix+"@0.4/img/s06_01.webp",
+                                                            "img": cdnPrefix+"@0.5/img/s06_01.webp",
                                                             "children": [
                                                                 {
                                                                     "title": "第七章 RV175",
                                                                     "code": "s07-01",
-                                                                    "img": cdnPrefix+"@0.4/img/s07_01.webp",
+                                                                    "img": cdnPrefix+"@0.5/img/s07_01.webp",
                                                                     "children": [
                                                                         {
                                                                             "title": "第八章 2666",
                                                                             "code": "s08-01",
-                                                                            "img": cdnPrefix+"@0.4/img/s08_01.webp",
+                                                                            "img": cdnPrefix+"@0.5/img/s08_01.webp",
                                                                             "children": [
                                                                                 {
                                                                                     "title": "End 凡夫俗子",
                                                                                     "code": "s08-02",
-                                                                                    "img": cdnPrefix+"@0.4/img/s08_02.webp"
+                                                                                    "img": cdnPrefix+"@0.5/img/s08_02.webp"
                                                                                 }, {
                                                                                     "title": "赵诗线 第一章",
                                                                                     "code": "szs-01",
-                                                                                    "img": cdnPrefix+"@0.4/img/szs_01.webp",
+                                                                                    "img": cdnPrefix+"@0.5/img/szs_01.webp",
                                                                                     "children": [{
                                                                                         "title": "赵诗线 第二章",
                                                                                         "code": "szs-02",
-                                                                                        "img": cdnPrefix+"@0.4/img/szs_02.webp",
+                                                                                        "img": cdnPrefix+"@0.5/img/szs_02.webp",
                                                                                         "children": [{
                                                                                             "title": "赵诗线 第三章",
                                                                                             "code": "szs-03",
-                                                                                            "img": cdnPrefix+"@0.4/img/szs_03.webp",
+                                                                                            "img": cdnPrefix+"@0.5/img/szs_03.webp",
                                                                                             "children": [{
                                                                                                 "title": "赵诗线 第四章",
                                                                                                 "code": "szs-04",
-                                                                                                "img": cdnPrefix+"@0.4/img/szs_04.webp",
+                                                                                                "img": cdnPrefix+"@0.5/img/szs_04.webp",
                                                                                                 "children": [{
                                                                                                     "title": "赵诗线 第五章",
                                                                                                     "code": "szs-05",
-                                                                                                    "img": cdnPrefix+"@0.4/img/szs_05.webp",
+                                                                                                    "img": cdnPrefix+"@0.5/img/szs_05.webp",
                                                                                                     "children": [{
                                                                                                         "title": "赵诗线 第六章",
                                                                                                         "code": "szs-06",
-                                                                                                        "img": cdnPrefix+"@0.4/img/szs_06.webp",
+                                                                                                        "img": cdnPrefix+"@0.5/img/szs_06.webp",
                                                                                                         "children": [{
                                                                                                             "title": "End 地尽头",
                                                                                                             "code": "szs-e1",
-                                                                                                            "img": cdnPrefix+"@0.4/img/szs_e1.webp"
+                                                                                                            "img": cdnPrefix+"@0.5/img/szs_e1.webp"
                                                                                                         }, {
                                                                                                             "title": "赵诗线 第七章",
                                                                                                             "code": "szs-07",
-                                                                                                            "img": cdnPrefix+"@0.4/img/szs_07.webp",
+                                                                                                            "img": cdnPrefix+"@0.5/img/szs_07.webp",
                                                                                                             "children": [{
                                                                                                                 "title": "赵诗线 第八章",
                                                                                                                 "code": "szs-08",
-                                                                                                                "img": cdnPrefix+"@0.4/img/szs_08.webp",
+                                                                                                                "img": cdnPrefix+"@0.5/img/szs_08.webp",
                                                                                                                 "children": [{
                                                                                                                     "title": "赵诗线 第九章",
                                                                                                                     "code": "szs-09",
-                                                                                                                    "img": cdnPrefix+"@0.4/img/szs_09.webp",
+                                                                                                                    "img": cdnPrefix+"@0.5/img/szs_09.webp",
                                                                                                                     "children": [{
                                                                                                                         "title": "赵诗线 第十章",
                                                                                                                         "code": "szs-10",
-                                                                                                                        "img": cdnPrefix+"@0.4/img/szs_10.webp",
+                                                                                                                        "img": cdnPrefix+"@0.5/img/szs_10.webp",
                                                                                                                         "children": [{
                                                                                                                             "title": "赵诗线 第十一章",
                                                                                                                             "code": "szs-11",
-                                                                                                                            "img": cdnPrefix+"@0.4/img/szs_11.webp",
+                                                                                                                            "img": cdnPrefix+"@0.5/img/szs_11.webp",
                                                                                                                             "children": [{
                                                                                                                                 "title": "End 钟无艳",
                                                                                                                                 "code": "szs-e2",
-                                                                                                                                "img": cdnPrefix+"@0.4/img/szs_e2.webp"
+                                                                                                                                "img": cdnPrefix+"@0.5/img/szs_e2.webp"
                                                                                                                             }, {
                                                                                                                                 "title": "赵诗线 漫长的道别 第十二章",
                                                                                                                                 "code": "szs-e3-12",
-                                                                                                                                "img": cdnPrefix+"@0.4/img/ssy_e2_10.webp",
+                                                                                                                                "img": cdnPrefix+"@0.5/img/ssy_e2_10.webp",
                                                                                                                                 "children": [{
                                                                                                                                     "title": "End 漫长的道别",
                                                                                                                                     "code": "szs-e3",
-                                                                                                                                    "img": cdnPrefix+"@0.4/img/szs_e3.webp"
+                                                                                                                                    "img": cdnPrefix+"@0.5/img/szs_e3.webp"
                                                                                                                                 }]
                                                                                                                             }, {
                                                                                                                                 "title": "End 避免",
                                                                                                                                 "code": "szs-e4",
-                                                                                                                                "img": cdnPrefix+"@0.4/img/szs_e4.webp"
+                                                                                                                                "img": cdnPrefix+"@0.5/img/szs_e4.webp"
                                                                                                                             }, {
                                                                                                                                 "title": "End 别让我走",
                                                                                                                                 "code": "szs-e5",
-                                                                                                                                "img": cdnPrefix+"@0.4/img/szs_e4.webp"
+                                                                                                                                "img": cdnPrefix+"@0.5/img/szs_e4.webp"
                                                                                                                             }]
                                                                                                                         }]
                                                                                                                     }]
@@ -137,47 +137,47 @@ var onlookerStoryData = {
                                                                                 }, {
                                                                                     "title": "沈岩线 第一章",
                                                                                     "code": "ssy-01",
-                                                                                    "img": cdnPrefix+"@0.4/img/ssy_01.webp",
+                                                                                    "img": cdnPrefix+"@0.5/img/ssy_01.webp",
                                                                                     "children": [{
                                                                                         "title": "沈岩线 第二章",
                                                                                         "code": "ssy-02",
-                                                                                        "img": cdnPrefix+"@0.4/img/ssy_02.webp",
+                                                                                        "img": cdnPrefix+"@0.5/img/ssy_02.webp",
                                                                                         "children": [{
                                                                                             "title": "沈岩线 成人的法则/不留 第三章",
                                                                                             "code": "ssy-e1-03",
-                                                                                            "img": cdnPrefix+"@0.4/img/ssy_e1_03.webp",
+                                                                                            "img": cdnPrefix+"@0.5/img/ssy_e1_03.webp",
                                                                                             "children": [{
                                                                                                 "title": "沈岩线 成人的法则/不留 第四章",
                                                                                                 "code": "ssy-e1-04",
-                                                                                                "img": cdnPrefix+"@0.4/img/ssy_e1_04.webp",
+                                                                                                "img": cdnPrefix+"@0.5/img/ssy_e1_04.webp",
                                                                                                 "children": [{
                                                                                                     "title": "沈岩线 成人的法则/不留 第五章",
                                                                                                     "code": "ssy-e1-05",
-                                                                                                    "img": cdnPrefix+"@0.4/img/ssy_e1_05.webp",
+                                                                                                    "img": cdnPrefix+"@0.5/img/ssy_e1_05.webp",
                                                                                                     "children": [{
                                                                                                         "title": "沈岩线 成人的法则/不留 第六章",
                                                                                                         "code": "ssy-e1-06",
-                                                                                                        "img": cdnPrefix+"@0.4/img/ssy_e1_06.webp",
+                                                                                                        "img": cdnPrefix+"@0.5/img/ssy_e1_06.webp",
                                                                                                         "children": [{
                                                                                                             "title": "沈岩线 成人的法则 第七章",
                                                                                                             "code": "ssy-e1-07",
-                                                                                                            "img": cdnPrefix+"@0.4/img/ssy_e1_07.webp",
+                                                                                                            "img": cdnPrefix+"@0.5/img/ssy_e1_07.webp",
                                                                                                             "children": [{
                                                                                                                 "title": "沈岩线 成人的法则 第八章",
                                                                                                                 "code": "ssy-e1-08",
-                                                                                                                "img": cdnPrefix+"@0.4/img/ssy_e1_08.webp",
+                                                                                                                "img": cdnPrefix+"@0.5/img/ssy_e1_08.webp",
                                                                                                                 "children": [{
                                                                                                                     "title": "沈岩线 成人的法则 第九章",
                                                                                                                     "code": "ssy-e1-09",
-                                                                                                                    "img": cdnPrefix+"@0.4/img/ssy_e1_09.webp",
+                                                                                                                    "img": cdnPrefix+"@0.5/img/ssy_e1_09.webp",
                                                                                                                     "children": [{
                                                                                                                         "title": "沈岩线 成人的法则 第十章",
                                                                                                                         "code": "ssy-e1-10",
-                                                                                                                        "img": cdnPrefix+"@0.4/img/ssy_e1_08.webp",
+                                                                                                                        "img": cdnPrefix+"@0.5/img/ssy_e1_08.webp",
                                                                                                                         "children": [{
                                                                                                                             "title": "End 成人的法则",
                                                                                                                             "code": "ssy-e1",
-                                                                                                                            "img": cdnPrefix+"@0.4/img/ssy_e1.webp"
+                                                                                                                            "img": cdnPrefix+"@0.5/img/ssy_e1.webp"
                                                                                                                         }]
                                                                                                                     }]
                                                                                                                 }]
@@ -185,27 +185,27 @@ var onlookerStoryData = {
                                                                                                         }, {
                                                                                                             "title": "沈岩线 不留 第七章",
                                                                                                             "code": "ssy-e2-07",
-                                                                                                            "img": cdnPrefix+"@0.4/img/ssy_e2_07.webp",
+                                                                                                            "img": cdnPrefix+"@0.5/img/ssy_e2_07.webp",
                                                                                                             "children": [{
                                                                                                                 "title": "沈岩线 不留 第八章",
                                                                                                                 "code": "ssy-e2-08",
-                                                                                                                "img": cdnPrefix+"@0.4/img/ssy_e2_08.webp",
+                                                                                                                "img": cdnPrefix+"@0.5/img/ssy_e2_08.webp",
                                                                                                                 "children": [{
                                                                                                                     "title": "沈岩线 不留 第九章",
                                                                                                                     "code": "ssy-e2-09",
-                                                                                                                    "img": cdnPrefix+"@0.4/img/ssy_e2_09.webp",
+                                                                                                                    "img": cdnPrefix+"@0.5/img/ssy_e2_09.webp",
                                                                                                                     "children": [{
                                                                                                                         "title": "沈岩线 不留 第十章",
                                                                                                                         "code": "ssy-e2-10",
-                                                                                                                        "img": cdnPrefix+"@0.4/img/ssy_e2_10.webp",
+                                                                                                                        "img": cdnPrefix+"@0.5/img/ssy_e2_10.webp",
                                                                                                                         "children": [{
                                                                                                                             "title": "沈岩线 不留 第十一章",
                                                                                                                             "code": "ssy-e2-11",
-                                                                                                                            "img": cdnPrefix+"@0.4/img/ssy_e2_11.webp",
+                                                                                                                            "img": cdnPrefix+"@0.5/img/ssy_e2_11.webp",
                                                                                                                             "children": [{
                                                                                                                                 "title": "End 不留",
                                                                                                                                 "code": "ssy-e2",
-                                                                                                                                "img": cdnPrefix+"@0.4/img/ssy_e2.webp"
+                                                                                                                                "img": cdnPrefix+"@0.5/img/ssy_e2.webp"
                                                                                                                             }]
                                                                                                                         }]
                                                                                                                     }]
@@ -218,59 +218,59 @@ var onlookerStoryData = {
                                                                                         }, {
                                                                                             "title": "沈岩线 沙之书 第三章",
                                                                                             "code": "ssy-e3-03",
-                                                                                            "img": cdnPrefix+"@0.4/img/ssy_e3_03.webp",
+                                                                                            "img": cdnPrefix+"@0.5/img/ssy_e3_03.webp",
                                                                                             "children": [{
                                                                                                 "title": "沈岩线 沙之书 第四章",
                                                                                                 "code": "ssy-e3-04",
-                                                                                                "img": cdnPrefix+"@0.4/img/ssy_e3_04.webp",
+                                                                                                "img": cdnPrefix+"@0.5/img/ssy_e3_04.webp",
                                                                                                 "children": [{
                                                                                                     "title": "沈岩线 沙之书 第五章",
                                                                                                     "code": "ssy-e3-05",
-                                                                                                    "img": cdnPrefix+"@0.4/img/ssy_e3_05.webp",
+                                                                                                    "img": cdnPrefix+"@0.5/img/ssy_e3_05.webp",
                                                                                                     "children": [{
                                                                                                         "title": "沈岩线 沙之书 第六章",
                                                                                                         "code": "ssy-e3-06",
-                                                                                                        "img": cdnPrefix+"@0.4/img/ssy_e3_06.webp",
+                                                                                                        "img": cdnPrefix+"@0.5/img/ssy_e3_06.webp",
                                                                                                         "children": [{
                                                                                                             "title": "沈岩线 沙之书 第七章",
                                                                                                             "code": "ssy-e3-07",
-                                                                                                            "img": cdnPrefix+"@0.4/img/ssy_e3_07.webp",
+                                                                                                            "img": cdnPrefix+"@0.5/img/ssy_e3_07.webp",
                                                                                                             "children": [{
                                                                                                                 "title": "沈岩线 沙之书 第八章",
                                                                                                                 "code": "ssy-e3-08",
-                                                                                                                "img": cdnPrefix+"@0.4/img/ssy_e3_08.webp",
+                                                                                                                "img": cdnPrefix+"@0.5/img/ssy_e3_08.webp",
                                                                                                                 "children": [{
                                                                                                                     "title": "沈岩线 沙之书 第九章",
                                                                                                                     "code": "ssy-e3-09",
-                                                                                                                    "img": cdnPrefix+"@0.4/img/ssy_e3_09.webp",
+                                                                                                                    "img": cdnPrefix+"@0.5/img/ssy_e3_09.webp",
                                                                                                                     "children": [{
                                                                                                                         "title": "沈岩线 沙之书 第十章",
                                                                                                                         "code": "ssy-e3-10",
-                                                                                                                        "img": cdnPrefix+"@0.4/img/ssy_e3_10.webp",
+                                                                                                                        "img": cdnPrefix+"@0.5/img/ssy_e3_10.webp",
                                                                                                                         "children": [{
                                                                                                                             "title": "沈岩线 沙之书 第十一章",
                                                                                                                             "code": "ssy-e3-11",
-                                                                                                                            "img": cdnPrefix+"@0.4/img/ssy_e3_11.webp",
+                                                                                                                            "img": cdnPrefix+"@0.5/img/ssy_e3_11.webp",
                                                                                                                             "children": [{
                                                                                                                                 "title": "沈岩线 沙之书 第十二章",
                                                                                                                                 "code": "ssy-e3-12",
-                                                                                                                                "img": cdnPrefix+"@0.4/img/ssy_e3_12.webp",
+                                                                                                                                "img": cdnPrefix+"@0.5/img/ssy_e3_12.webp",
                                                                                                                                 "children": [{
                                                                                                                                     "title": "沈岩线 沙之书 第十三章",
                                                                                                                                     "code": "ssy-e3-13",
-                                                                                                                                    "img": cdnPrefix+"@0.4/img/ssy_e3_13.webp",
+                                                                                                                                    "img": cdnPrefix+"@0.5/img/ssy_e3_13.webp",
                                                                                                                                     "children": [{
                                                                                                                                         "title": "沈岩线 沙之书 第十四章",
                                                                                                                                         "code": "ssy-e3-14",
-                                                                                                                                        "img": cdnPrefix+"@0.4/img/ssy_e3_14.webp",
+                                                                                                                                        "img": cdnPrefix+"@0.5/img/ssy_e3_14.webp",
                                                                                                                                         "children": [{
                                                                                                                                             "title": "沈岩线 沙之书 第十五章",
                                                                                                                                             "code": "ssy-e3-15",
-                                                                                                                                            "img": cdnPrefix+"@0.4/img/ssy_e3_15.webp",
+                                                                                                                                            "img": cdnPrefix+"@0.5/img/ssy_e3_15.webp",
                                                                                                                                             "children": [{
                                                                                                                                                 "title": "End 沙之书",
                                                                                                                                                 "code": "ssy-e3",
-                                                                                                                                                "img": cdnPrefix+"@0.4/img/ssy_e3.webp"
+                                                                                                                                                "img": cdnPrefix+"@0.5/img/ssy_e3.webp"
                                                                                                                                             }]
                                                                                                                                         }]
                                                                                                                                     }]
@@ -289,80 +289,80 @@ var onlookerStoryData = {
                                                                                 }, {
                                                                                     "title": "木竹樱线 第一章",
                                                                                     "code": "smzy-01",
-                                                                                    "img": cdnPrefix+"@0.4/img/smzy_01.webp",
+                                                                                    "img": cdnPrefix+"@0.5/img/smzy_01.webp",
                                                                                     "children": [{
                                                                                         "title": "木竹樱线 第二章",
                                                                                         "code": "smzy-02",
-                                                                                        "img": cdnPrefix+"@0.4/img/smzy_02.webp",
+                                                                                        "img": cdnPrefix+"@0.5/img/smzy_02.webp",
                                                                                         "children": [{
                                                                                             "title": "木竹樱线 第三章",
                                                                                             "code": "smzy-03",
-                                                                                            "img": cdnPrefix+"@0.4/img/smzy_03.webp",
+                                                                                            "img": cdnPrefix+"@0.5/img/smzy_03.webp",
                                                                                             "children": [{
                                                                                                 "title": "木竹樱线 第四章",
                                                                                                 "code": "smzy-04",
-                                                                                                "img": cdnPrefix+"@0.4/img/smzy_04.webp",
+                                                                                                "img": cdnPrefix+"@0.5/img/smzy_04.webp",
                                                                                                 "children": [{
                                                                                                     "title": "木竹樱线 第五章",
                                                                                                     "code": "smzy-05",
-                                                                                                    "img": cdnPrefix+"@0.4/img/smzy_05.webp",
+                                                                                                    "img": cdnPrefix+"@0.5/img/smzy_05.webp",
                                                                                                     "children": [{
                                                                                                         "title": "木竹樱线 第六章",
                                                                                                         "code": "smzy-06",
-                                                                                                        "img": cdnPrefix+"@0.4/img/smzy_06.webp",
+                                                                                                        "img": cdnPrefix+"@0.5/img/smzy_06.webp",
                                                                                                         "children": [{
                                                                                                             "title": "木竹樱线 第七章",
                                                                                                             "code": "smzy-07",
-                                                                                                            "img": cdnPrefix+"@0.4/img/smzy_07.webp",
+                                                                                                            "img": cdnPrefix+"@0.5/img/smzy_07.webp",
                                                                                                             "children": [{
                                                                                                                 "title": "木竹樱线 第八章",
                                                                                                                 "code": "smzy-08",
-                                                                                                                "img": cdnPrefix+"@0.4/img/smzy_08.webp",
+                                                                                                                "img": cdnPrefix+"@0.5/img/smzy_08.webp",
                                                                                                                 "children": [{
                                                                                                                     "title": "木竹樱线 第九章",
                                                                                                                     "code": "smzy-09",
-                                                                                                                    "img": cdnPrefix+"@0.4/img/smzy_09.webp",
+                                                                                                                    "img": cdnPrefix+"@0.5/img/smzy_09.webp",
                                                                                                                     "children": [{
                                                                                                                         "title": "木竹樱线 第十章",
                                                                                                                         "code": "smzy-10",
-                                                                                                                        "img": cdnPrefix+"@0.4/img/smzy_10.webp",
+                                                                                                                        "img": cdnPrefix+"@0.5/img/smzy_10.webp",
                                                                                                                         "children": [{
                                                                                                                             "title": "木竹樱线 第十一章",
                                                                                                                             "code": "smzy-11",
-                                                                                                                            "img": cdnPrefix+"@0.4/img/smzy_11.webp",
+                                                                                                                            "img": cdnPrefix+"@0.5/img/smzy_11.webp",
                                                                                                                             "children": [{
                                                                                                                                 "title": "木竹樱线 第十二章",
                                                                                                                                 "code": "smzy-12",
-                                                                                                                                "img": cdnPrefix+"@0.4/img/smzy_12.webp",
+                                                                                                                                "img": cdnPrefix+"@0.5/img/smzy_12.webp",
                                                                                                                                 "children": [{
                                                                                                                                     "title": "End Mind Time Bomb",
                                                                                                                                     "code": "smzy-e1",
-                                                                                                                                    "img": cdnPrefix+"@0.4/img/smzy_e1.webp"
+                                                                                                                                    "img": cdnPrefix+"@0.5/img/smzy_e1.webp"
                                                                                                                                 }, {
                                                                                                                                     "title": "木竹樱线 心中 第十三章",
                                                                                                                                     "code": "smzy-e2-13",
-                                                                                                                                    "img": cdnPrefix+"@0.4/img/smzy_e2_13.webp",
+                                                                                                                                    "img": cdnPrefix+"@0.5/img/smzy_e2_13.webp",
                                                                                                                                     "children": [{
                                                                                                                                         "title": "End 心中",
                                                                                                                                         "code": "smzy-e2",
-                                                                                                                                        "img": cdnPrefix+"@0.4/img/smzy_e2.webp"
+                                                                                                                                        "img": cdnPrefix+"@0.5/img/smzy_e2.webp"
                                                                                                                                     }]
                                                                                                                                 }, {
                                                                                                                                     "title": "木竹樱线 邮差/Stargazer 第十三章",
                                                                                                                                     "code": "smzy-e3-13",
-                                                                                                                                    "img": cdnPrefix+"@0.4/img/smzy_e3_13.webp",
+                                                                                                                                    "img": cdnPrefix+"@0.5/img/smzy_e3_13.webp",
                                                                                                                                     "children": [{
                                                                                                                                         "title": "木竹樱线 邮差/Stargazer 第十四章",
                                                                                                                                         "code": "smzy-e3-14",
-                                                                                                                                        "img": cdnPrefix+"@0.4/img/smzy_e3_14.webp",
+                                                                                                                                        "img": cdnPrefix+"@0.5/img/smzy_e3_14.webp",
                                                                                                                                         "children": [{
                                                                                                                                             "title": "End 邮差",
                                                                                                                                             "code": "smzy-e3",
-                                                                                                                                            "img": cdnPrefix+"@0.4/img/smzy_e3.webp"
+                                                                                                                                            "img": cdnPrefix+"@0.5/img/smzy_e3.webp"
                                                                                                                                         }, {
                                                                                                                                             "title": "End Stargazer",
                                                                                                                                             "code": "smzy-e4",
-                                                                                                                                            "img": cdnPrefix+"@0.4/img/smzy_e4.webp"
+                                                                                                                                            "img": cdnPrefix+"@0.5/img/smzy_e4.webp"
                                                                                                                                         }]
                                                                                                                                     }]
                                                                                                                                 }]
@@ -402,55 +402,55 @@ var onlookerStoryData = {
 var onlookerLiveData = {
     "miki": {
         "name": "弥希Miki",
-        "avatar": cdnPrefix+"@0.4/img/avatar_miki.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_miki.webp"
     },
     "mahiru": {
         "name": "真绯瑠Mahiru",
-        "avatar": cdnPrefix+"@0.4/img/avatar_mahiru.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_mahiru.webp"
     },
     "midone": {
         "name": "中单光一",
-        "avatar": cdnPrefix+"@0.4/img/avatar_midone.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_midone.webp"
     },
     "ichigo": {
         "name": "一果Ichigo",
-        "avatar": cdnPrefix+"@0.4/img/avatar_ichigo.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_ichigo.webp"
     },
     "muri": {
         "name": "无理MURI",
-        "avatar": cdnPrefix+"@0.4/img/avatar_muri.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_muri.webp"
     },
     "shiki": {
         "name": "紫纪Shiki",
-        "avatar": cdnPrefix+"@0.4/img/avatar_shiki.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_shiki.webp"
     },
     "jfn": {
         "name": "菫妃奈Official",
-        "avatar": cdnPrefix+"@0.4/img/avatar_jfn.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_jfn.webp"
     },
     "aza": {
         "name": "阿萨Aza",
-        "avatar": cdnPrefix+"@0.4/img/avatar_aza.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_aza.webp"
     },
     "inari": {
         "name": "安堂いなり_official",
-        "avatar": cdnPrefix+"@0.4/img/avatar_inari.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_inari.webp"
     },
     "nanami": {
         "name": "七海Nana7mi",
-        "avatar": cdnPrefix+"@0.4/img/avatar_nanami.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_nanami.webp"
     },
     "ruki": {
         "name": "琉绮Ruki",
-        "avatar": cdnPrefix+"@0.4/img/avatar_ruki.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_ruki.webp"
     },
     "roi": {
         "name": "罗伊_Roi",
-        "avatar": cdnPrefix+"@0.4/img/avatar_roi.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_roi.webp"
     },
     "lla": {
         "name": "蓝莲安",
-        "avatar": cdnPrefix+"@0.4/img/avatar_lla.webp"
+        "avatar": cdnPrefix+"@0.5/img/avatar_lla.webp"
     },
     "s00-00": [
         {
