@@ -7,26 +7,30 @@ function showStoryNodeWindow(e){
     document.getElementById('record-win-title').innerText = e.target.title;
     const content = document.getElementById('record-win-content');
     content.innerHTML = '';
-    for(let i=0;i<datas.length;i++){
-        const data = datas[i];
-        const item = document.createElement('a');
-        item.className = 'record-item';
-        item.href = data.link;
-        item.target = '_blank';
-        for(let j=0;j<data.livers.length;j++){
-            const liver = onlookerLiveData[data.livers[j]];
-            const avatar = document.createElement('img');
-            avatar.className = 'record-item-avatar';
-            avatar.src = liver.avatar;
-            avatar.alt = liver.name;
-            item.append(avatar);
+    if(datas){
+        for(let i=0;i<datas.length;i++){
+            const data = datas[i];
+            const item = document.createElement('a');
+            item.className = 'record-item';
+            item.href = data.link;
+            item.target = '_blank';
+            for(let j=0;j<data.livers.length;j++){
+                const liver = onlookerLiveData[data.livers[j]];
+                const avatar = document.createElement('img');
+                avatar.className = 'record-item-avatar';
+                avatar.src = liver.avatar;
+                avatar.alt = liver.name;
+                item.append(avatar);
+            }
+            const text = document.createElement('div');
+            text.className = 'record-item-text';
+            text.append(buildTextSpan('record-item-title', data.title));
+            text.append(buildTextSpan('record-item-subtitle', data.subtitle));
+            item.append(text);
+            content.append(item);
         }
-        const text = document.createElement('div');
-        text.className = 'record-item-text';
-        text.append(buildTextSpan('record-item-title', data.title));
-        text.append(buildTextSpan('record-item-subtitle', data.subtitle));
-        item.append(text);
-        content.append(item);
+    } else {
+        content.innerText = '大家都爱小偶像, 都不舍得Bomb';
     }
     window.location.hash = '#record-win';
 }
