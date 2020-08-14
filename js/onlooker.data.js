@@ -452,6 +452,10 @@ var onlookerLiveData = {
         "name": "蓝莲安",
         "avatar": cdnPrefix+"@1.0/img/avatar_lla.webp"
     },
+    "karu": {
+        "name": "花留Karu",
+        "avatar": cdnPrefix+"@1.2/img/avatar_karu.webp"
+    },
     "s00-00": [
         {
             "livers": ["ruki"],
@@ -501,7 +505,7 @@ var onlookerLiveData = {
         }, {
             "livers": ["ichigo"],
             "title": "他人世界末1",
-            "subtitle": "共通章-第一至七章",
+            "subtitle": "共通章-序章至第七章",
             "link": videoPrefix+"BV135411Y7xj?p=9"
         }, {
             "livers": ["ichigo"],
@@ -594,6 +598,21 @@ var onlookerLiveData = {
             "subtitle": "木竹樱线-Stargazer第五章后半至结局 木竹樱线-邮差",
             "link": videoPrefix+"BV1FA411v7MW?p=11"
         }, {
+            "livers": ["karu"],
+            "title": "07/16 To The Moon 下",
+            "subtitle": "共通章序章至第六章",
+            "link": videoPrefix+"BV1654y1q7Hj?p=9&t=6860"
+        }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "共通章第七至八章 赵诗线-漫长的道别",
+            "link": videoPrefix+"BV19K4y1v7qm"
+        }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线-成人的法则",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "共通章 赵诗线第一章开头",
@@ -667,6 +686,11 @@ var onlookerLiveData = {
             "subtitle": "序章",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=194"
         }, {
+            "livers": ["karu"],
+            "title": "07/16 To The Moon 下",
+            "subtitle": "序章",
+            "link": videoPrefix+"BV1654y1q7Hj?p=9&t=6935"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "序章",
@@ -719,6 +743,11 @@ var onlookerLiveData = {
             "title": "0716 他人世界末 共通&沈岩线",
             "subtitle": "第一章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=784"
+        }, {
+            "livers": ["karu"],
+            "title": "07/16 To The Moon 下",
+            "subtitle": "第一章开始",
+            "link": videoPrefix+"BV1654y1q7Hj?p=9&t=7322"
         }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
@@ -773,6 +802,11 @@ var onlookerLiveData = {
             "subtitle": "第二章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=1543"
         }, {
+            "livers": ["karu"],
+            "title": "07/16 To The Moon 下",
+            "subtitle": "第二章开始",
+            "link": videoPrefix+"BV1654y1q7Hj?p=9&t=7806"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "第二章开始",
@@ -825,6 +859,11 @@ var onlookerLiveData = {
             "title": "0716 他人世界末 共通&沈岩线",
             "subtitle": "第三章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=2458"
+        }, {
+            "livers": ["karu"],
+            "title": "07/16 To The Moon 下",
+            "subtitle": "第三章开始",
+            "link": videoPrefix+"BV1654y1q7Hj?p=9&t=8311"
         }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
@@ -879,6 +918,11 @@ var onlookerLiveData = {
             "subtitle": "第四章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=3673"
         }, {
+            "livers": ["karu"],
+            "title": "07/16 To The Moon 下",
+            "subtitle": "第四章开始",
+            "link": videoPrefix+"BV1654y1q7Hj?p=9&t=8762"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "第四章开始",
@@ -931,6 +975,11 @@ var onlookerLiveData = {
             "title": "0716 他人世界末 共通&沈岩线",
             "subtitle": "第五章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=4242"
+        }, {
+            "livers": ["karu"],
+            "title": "07/16 To The Moon 下",
+            "subtitle": "第五章开始",
+            "link": videoPrefix+"BV1654y1q7Hj?p=9&t=9229"
         }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
@@ -990,6 +1039,11 @@ var onlookerLiveData = {
             "subtitle": "第六章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=4940"
         }, {
+            "livers": ["karu"],
+            "title": "07/16 To The Moon 下",
+            "subtitle": "第六章开始",
+            "link": videoPrefix+"BV1654y1q7Hj?p=9&t=9717"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "第六章开始",
@@ -1048,6 +1102,11 @@ var onlookerLiveData = {
             "subtitle": "第七章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=5702"
         }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "第七章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=432"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "第七章开始",
@@ -1105,6 +1164,11 @@ var onlookerLiveData = {
             "title": "0716 他人世界末 共通&沈岩线",
             "subtitle": "第八章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=6118"
+        }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "第八章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=1081"
         }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
@@ -1187,6 +1251,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 地尽头 第一章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=2&t=7349"
         }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第一章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=1880"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "赵诗线 第一章开始",
@@ -1235,6 +1304,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 地尽头 第二章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=2&t=8128"
         }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第二章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=2926"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
             "subtitle": "赵诗线 第二章开始",
@@ -1277,6 +1351,11 @@ var onlookerLiveData = {
             "title": "8.2 他人世界末",
             "subtitle": "赵诗线 地尽头 第三章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=2&t=8488"
+        }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第三章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=3444"
         }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
@@ -1321,6 +1400,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 地尽头 第四章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=2&t=9173"
         }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第四章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=4658"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
             "subtitle": "赵诗线 第四章开始",
@@ -1364,6 +1448,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 地尽头 第五章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=2&t=9753"
         }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第五章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=6063"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
             "subtitle": "赵诗线 第五章开始",
@@ -1406,6 +1495,11 @@ var onlookerLiveData = {
             "title": "8.2 他人世界末",
             "subtitle": "赵诗线 地尽头 第六章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=2&t=10190"
+        }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第六章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=6901"
         }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
@@ -1473,6 +1567,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 漫长的道别 第七章开始 告白答复:再考虑一段时间",
             "link": videoPrefix+"BV1Th411Z7Sa?p=3&t=410"
         }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第七章开始 告白答复:再考虑一段时间",
+            "link": videoPrefix+"BV19K4y1v7qm?t=7934"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
             "subtitle": "赵诗线 第七章开始 告白答复:再考虑一段时间",
@@ -1516,6 +1615,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 漫长的道别 第八章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=3&t=1044"
         }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第八章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=9068"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
             "subtitle": "赵诗线 第八章开始",
@@ -1558,6 +1662,11 @@ var onlookerLiveData = {
             "title": "8.4 他人世界末",
             "subtitle": "赵诗线 漫长的道别 第九章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=3&t=1729"
+        }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第九章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=9924"
         }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
@@ -1607,6 +1716,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 漫长的道别 第十章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=3&t=2622"
         }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第十章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=11220"
+        }, {
             "livers": ["jfn"],
             "title": "07-25 他人世界末 Part 2",
             "subtitle": "赵诗线 别让我走 第十章开始",
@@ -1644,6 +1758,11 @@ var onlookerLiveData = {
             "title": "8.4 他人世界末",
             "subtitle": "赵诗线 漫长的道别 第十一章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=3&t=3706"
+        }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第十一章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=12272"
         }, {
             "livers": ["jfn"],
             "title": "07-25 他人世界末 Part 2",
@@ -1691,6 +1810,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 漫长的道别 第十二章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=3&t=4119"
         }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 第十二章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=13040"
+        }, {
             "livers": ["jfn"],
             "title": "07-25 他人世界末 Part 2",
             "subtitle": "赵诗线 漫长的道别 第十二章开始",
@@ -1723,6 +1847,11 @@ var onlookerLiveData = {
             "title": "8.4 他人世界末",
             "subtitle": "赵诗线 漫长的道别 最终章开始",
             "link": videoPrefix+"BV1Th411Z7Sa?p=3&t=4405"
+        }, {
+            "livers": ["karu"],
+            "title": "赵诗线 漫长的道别",
+            "subtitle": "赵诗线 漫长的道别 最终章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?t=13608"
         }, {
             "livers": ["jfn"],
             "title": "07-25 他人世界末 Part 2",
@@ -1803,6 +1932,11 @@ var onlookerLiveData = {
             "subtitle": "沈岩线 沙之书 第一章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=6852"
         }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 第一章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=348"
+        }, {
             "livers": ["jfn"],
             "title": "07-25 同步视听OWL Part 3",
             "subtitle": "沈岩线 不留 第一章开始",
@@ -1846,6 +1980,11 @@ var onlookerLiveData = {
             "subtitle": "沈岩线 沙之书 第二章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=7378"
         }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 第二章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=1142"
+        }, {
             "livers": ["jfn"],
             "title": "07-25 同步视听OWL Part 3",
             "subtitle": "沈岩线 不留 第二章开始",
@@ -1883,6 +2022,11 @@ var onlookerLiveData = {
             "title": "他人世界末2020-07-15 21-00-59",
             "subtitle": "沈岩线 不留 第三章开始",
             "link": videoPrefix+"BV165411Y7Kz?p=28&t=9738"
+        }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 第三章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=1852"
         }, {
             "livers": ["jfn"],
             "title": "07-25 同步视听OWL Part 3",
@@ -1922,6 +2066,11 @@ var onlookerLiveData = {
             "subtitle": "沈岩线 不留 第四章开始",
             "link": videoPrefix+"BV165411Y7Kz?p=28&t=10321"
         }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 第四章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=2642"
+        }, {
             "livers": ["jfn"],
             "title": "07-25 同步视听OWL Part 3",
             "subtitle": "沈岩线 不留 第四章开始",
@@ -1959,6 +2108,11 @@ var onlookerLiveData = {
             "title": "他人世界末2020-07-15 21-00-59",
             "subtitle": "沈岩线 不留 第五章开始",
             "link": videoPrefix+"BV165411Y7Kz?p=28&t=10612"
+        }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 第五章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=3042"
         }, {
             "livers": ["jfn"],
             "title": "07-25 同步视听OWL Part 3",
@@ -1998,6 +2152,11 @@ var onlookerLiveData = {
             "subtitle": "沈岩线 不留 第六章开始",
             "link": videoPrefix+"BV165411Y7Kz?p=28&t=10877"
         }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 第六章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=3428"
+        }, {
             "livers": ["jfn"],
             "title": "07-25 同步视听OWL Part 3",
             "subtitle": "沈岩线 不留 第六章开始",
@@ -2015,6 +2174,11 @@ var onlookerLiveData = {
             "title": "沈岩线【上】",
             "subtitle": "沈岩线 成人的法则 第七章开始",
             "link": videoPrefix+"BV1sA411e7aK?p=5&t=3056"
+        }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 第七章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=3811"
         }
     ],
     "ssy-e1-08": [
@@ -2028,6 +2192,11 @@ var onlookerLiveData = {
             "title": "沈岩线【上】",
             "subtitle": "沈岩线 成人的法则 第八章开始",
             "link": videoPrefix+"BV1sA411e7aK?p=5&t=3424"
+        }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 第八章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=4462"
         }
     ],
     "ssy-e1-09": [
@@ -2041,6 +2210,11 @@ var onlookerLiveData = {
             "title": "沈岩线【上】",
             "subtitle": "沈岩线 成人的法则 第九章开始",
             "link": videoPrefix+"BV1sA411e7aK?p=5&t=3850"
+        }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 第九章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=5272"
         }
     ],
     "ssy-e1-10": [
@@ -2054,6 +2228,11 @@ var onlookerLiveData = {
             "title": "沈岩线【上】",
             "subtitle": "沈岩线 成人的法则 第十章开始",
             "link": videoPrefix+"BV1sA411e7aK?p=5&t=4200"
+        }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 第十章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=6049"
         }
     ],
     "ssy-e1": [
@@ -2067,6 +2246,11 @@ var onlookerLiveData = {
             "title": "沈岩线【上】",
             "subtitle": "沈岩线 成人的法则 最终章开始",
             "link": videoPrefix+"BV1sA411e7aK?p=5&t=4435"
+        }, {
+            "livers": ["karu"],
+            "title": "沈岩线 成人的法则",
+            "subtitle": "沈岩线 成人的法则 最终章开始",
+            "link": videoPrefix+"BV19K4y1v7qm?p=2&t=6609"
         }
     ],
     "ssy-e2-07": [
