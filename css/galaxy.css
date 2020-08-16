@@ -1,2 +1,119 @@
-* {padding: 0; margin: 0}
-body {overflow: hidden;}
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow: hidden;
+}
+
+.golink {
+    position: absolute;
+}
+
+.has-border {
+    border: 2px solid #eee9dc;
+    border-radius: 5px;
+}
+
+.animation-5 {
+    animation: move-golink-1 5s linear infinite;
+    -webkit-animation: move-golink-1 5s linear infinite;
+    -moz-animation: move-golink-1 5s linear infinite;
+}
+
+.animation-8 {
+    animation: move-golink-2 8s linear infinite;
+    -webkit-animation: move-golink-2 8s linear infinite;
+    -moz-animation: move-golink-2 8s linear infinite;
+}
+
+@-moz-keyframes move-golink-1 {
+    25% {
+        -moz-transform: translate(0, 10px);
+    }
+    50% {
+        -moz-transform: translate(10px, 10px);
+    }
+    75% {
+        -moz-transform: translate(10px, 0px);
+    }
+    100% {
+        -moz-transform: translate(0px, 0px);
+    }
+}
+
+@-webkit-keyframes move-golink-1 {
+    25% {
+        -webkit-transform: translate(0, 10px);
+    }
+    50% {
+        -webkit-transform: translate(10px, 10px);
+    }
+    75% {
+        -webkit-transform: translate(10px, 0px);
+    }
+    100% {
+        -webkit-transform: translate(0px, 0px);
+    }
+}
+
+@keyframes move-golink-1 {
+    25% {
+        transform: translate(0, 10px);
+    }
+    50% {
+        transform: translate(10px, 10px);
+    }
+    75% {
+        transform: translate(10px, 0px);
+    }
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
+
+@-moz-keyframes move-golink-2 {
+    25% {
+        -moz-transform: translate(0, -10px);
+    }
+    50% {
+        -moz-transform: translate(-10px, -10px);
+    }
+    75% {
+        -moz-transform: translate(-10px, 0px);
+    }
+    100% {
+        -moz-transform: translate(0px, 0px);
+    }
+}
+
+@-webkit-keyframes move-golink-2 {
+    25% {
+        -webkit-transform: translate(0, -10px);
+    }
+    50% {
+        -webkit-transform: translate(-10px, -10px);
+    }
+    75% {
+        -webkit-transform: translate(-10px, 0px);
+    }
+    100% {
+        -webkit-transform: translate(0px, 0px);
+    }
+}
+
+@keyframes move-golink-2 {
+    25% {
+        transform: translate(0, -10px);
+    }
+    50% {
+        transform: translate(-10px, -10px);
+    }
+    75% {
+        transform: translate(-10px, 0px);
+    }
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
