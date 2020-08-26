@@ -456,6 +456,14 @@ var onlookerLiveData = {
         "name": "花留Karu",
         "avatar": cdnPrefix+"@1.2/img/avatar_karu.webp"
     },
+    "kiyora": {
+        "name": "清良Kiyora",
+        "avatar": cdnPrefix+"@1.4/img/avatar_kiyora.webp"
+    },
+    "chiharu": {
+        "name": "千春_Chiharu",
+        "avatar": cdnPrefix+"@1.4/img/avatar_chiharu.webp"
+    },
     "s00-00": [
         {
             "livers": ["ruki"],
@@ -613,6 +621,41 @@ var onlookerLiveData = {
             "subtitle": "沈岩线-成人的法则",
             "link": videoPrefix+"BV19K4y1v7qm?p=2"
         }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-22 第一次世界末+赘婿欣赏+SAO欣赏聊番",
+            "subtitle": "共通章序章至第八章前半",
+            "link": videoPrefix+"BV1qC4y1t7PH?t=984"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线1",
+            "subtitle": "共通章第八章后半 赵诗线-地尽头第一至三章前半",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=2"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线2",
+            "subtitle": "赵诗线-地尽头第三章后半至结局",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=3"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 15-36-13",
+            "subtitle": "共通章序章至第五章前半",
+            "link": videoPrefix+"BV1QT4y157Wm?p=32"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 21-32-11",
+            "subtitle": "共通章第五章后半至第八章 凡夫俗子 木竹樱线-第一至四章",
+            "link": videoPrefix+"BV1QT4y157Wm?p=33"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-24 19-07-49(00h00m00s-02h33m47s)",
+            "subtitle": "木竹樱线-第四章结尾至第九章前半",
+            "link": videoPrefix+"BV1QT4y157Wm?p=34"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-24 19-07-49(02h33m47s-05h07m34s)",
+            "subtitle": "木竹樱线-第九章后半至第十章前半",
+            "link": videoPrefix+"BV1QT4y157Wm?p=35"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "共通章 赵诗线第一章开头",
@@ -691,6 +734,16 @@ var onlookerLiveData = {
             "subtitle": "序章",
             "link": videoPrefix+"BV1654y1q7Hj?p=9&t=6935"
         }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-22 第一次世界末+赘婿欣赏+SAO欣赏聊番",
+            "subtitle": "序章",
+            "link": videoPrefix+"BV1qC4y1t7PH?t=1303"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 15-36-13",
+            "subtitle": "序章",
+            "link": videoPrefix+"BV1QT4y157Wm?p=32&t=331"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "序章",
@@ -748,6 +801,16 @@ var onlookerLiveData = {
             "title": "07/16 To The Moon 下",
             "subtitle": "第一章开始",
             "link": videoPrefix+"BV1654y1q7Hj?p=9&t=7322"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-22 第一次世界末+赘婿欣赏+SAO欣赏聊番",
+            "subtitle": "第一章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?t=1912"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 15-36-13",
+            "subtitle": "第一章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=32&t=1288"
         }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
@@ -807,6 +870,16 @@ var onlookerLiveData = {
             "subtitle": "第二章开始",
             "link": videoPrefix+"BV1654y1q7Hj?p=9&t=7806"
         }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-22 第一次世界末+赘婿欣赏+SAO欣赏聊番",
+            "subtitle": "第二章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?t=2727"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 15-36-13",
+            "subtitle": "第二章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=32&t=3640"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "第二章开始",
@@ -864,6 +937,16 @@ var onlookerLiveData = {
             "title": "07/16 To The Moon 下",
             "subtitle": "第三章开始",
             "link": videoPrefix+"BV1654y1q7Hj?p=9&t=8311"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-22 第一次世界末+赘婿欣赏+SAO欣赏聊番",
+            "subtitle": "第三章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?t=3489"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 15-36-13",
+            "subtitle": "第三章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=32&t=5198"
         }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
@@ -923,6 +1006,16 @@ var onlookerLiveData = {
             "subtitle": "第四章开始",
             "link": videoPrefix+"BV1654y1q7Hj?p=9&t=8762"
         }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-22 第一次世界末+赘婿欣赏+SAO欣赏聊番",
+            "subtitle": "第四章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?t=5872"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 15-36-13",
+            "subtitle": "第四章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=32&t=6649"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "第四章开始",
@@ -980,6 +1073,21 @@ var onlookerLiveData = {
             "title": "07/16 To The Moon 下",
             "subtitle": "第五章开始",
             "link": videoPrefix+"BV1654y1q7Hj?p=9&t=9229"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-22 第一次世界末+赘婿欣赏+SAO欣赏聊番",
+            "subtitle": "第五章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?t=6581"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 15-36-13",
+            "subtitle": "第五章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=32&t=7786"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 21-32-11",
+            "subtitle": "第五章后半",
+            "link": videoPrefix+"BV1QT4y157Wm?p=33&t=197"
         }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
@@ -1044,6 +1152,16 @@ var onlookerLiveData = {
             "subtitle": "第六章开始",
             "link": videoPrefix+"BV1654y1q7Hj?p=9&t=9717"
         }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-22 第一次世界末+赘婿欣赏+SAO欣赏聊番",
+            "subtitle": "第六章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?t=7236"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 21-32-11",
+            "subtitle": "第六章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=33&t=2187"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "第六章开始",
@@ -1106,6 +1224,16 @@ var onlookerLiveData = {
             "title": "赵诗线 漫长的道别",
             "subtitle": "第七章开始",
             "link": videoPrefix+"BV19K4y1v7qm?t=432"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-22 第一次世界末+赘婿欣赏+SAO欣赏聊番",
+            "subtitle": "第七章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?t=7778"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 21-32-11",
+            "subtitle": "第七章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=33&t=9929"
         }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
@@ -1170,6 +1298,21 @@ var onlookerLiveData = {
             "subtitle": "第八章开始",
             "link": videoPrefix+"BV19K4y1v7qm?t=1081"
         }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-22 第一次世界末+赘婿欣赏+SAO欣赏聊番",
+            "subtitle": "第八章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?t=8060"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线1",
+            "subtitle": "第八章后半",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=2&t=489"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 21-32-11",
+            "subtitle": "第八章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=33&t=11084"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
             "subtitle": "第八章开始",
@@ -1217,6 +1360,11 @@ var onlookerLiveData = {
             "title": "0716 他人世界末 共通&沈岩线",
             "subtitle": "凡夫俗子",
             "link": videoPrefix+"BV1FA411v7MW?p=8&t=6730"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 21-32-11",
+            "subtitle": "凡夫俗子",
+            "link": videoPrefix+"BV1QT4y157Wm?p=33&t=12358"
         }
     ],
     "szs-01": [
@@ -1255,6 +1403,11 @@ var onlookerLiveData = {
             "title": "赵诗线 漫长的道别",
             "subtitle": "赵诗线 漫长的道别 第一章开始",
             "link": videoPrefix+"BV19K4y1v7qm?t=1880"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线1",
+            "subtitle": "赵诗线 地尽头 第一章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=2&t=1420"
         }, {
             "livers": ["inari"],
             "title": "2020年7月16日20时30分【BiliBili】迟到的他人世界末",
@@ -1309,6 +1462,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 漫长的道别 第二章开始",
             "link": videoPrefix+"BV19K4y1v7qm?t=2926"
         }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线1",
+            "subtitle": "赵诗线 地尽头 第二章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=2&t=3726"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
             "subtitle": "赵诗线 第二章开始",
@@ -1356,6 +1514,16 @@ var onlookerLiveData = {
             "title": "赵诗线 漫长的道别",
             "subtitle": "赵诗线 漫长的道别 第三章开始",
             "link": videoPrefix+"BV19K4y1v7qm?t=3444"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线1",
+            "subtitle": "赵诗线 地尽头 第三章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=2&t=4917"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线2",
+            "subtitle": "赵诗线 地尽头 第三章后半",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=3"
         }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
@@ -1405,6 +1573,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 漫长的道别 第四章开始",
             "link": videoPrefix+"BV19K4y1v7qm?t=4658"
         }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线2",
+            "subtitle": "赵诗线 地尽头 第四章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=3&t=1227"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
             "subtitle": "赵诗线 第四章开始",
@@ -1452,6 +1625,11 @@ var onlookerLiveData = {
             "title": "赵诗线 漫长的道别",
             "subtitle": "赵诗线 漫长的道别 第五章开始",
             "link": videoPrefix+"BV19K4y1v7qm?t=6063"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线2",
+            "subtitle": "赵诗线 地尽头 第五章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=3&t=2630"
         }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
@@ -1501,6 +1679,11 @@ var onlookerLiveData = {
             "subtitle": "赵诗线 漫长的道别 第六章开始",
             "link": videoPrefix+"BV19K4y1v7qm?t=6901"
         }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线2",
+            "subtitle": "赵诗线 地尽头 第六章开始",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=3&t=3352"
+        }, {
             "livers": ["inari"],
             "title": "2020年7月17日8时30分【BiliBili】早安奶黄包",
             "subtitle": "赵诗线 第六章开始",
@@ -1528,6 +1711,11 @@ var onlookerLiveData = {
             "title": "8.2 他人世界末",
             "subtitle": "赵诗线 地尽头",
             "link": videoPrefix+"BV1Th411Z7Sa?p=2&t=10796"
+        }, {
+            "livers": ["kiyora"],
+            "title": "2020-08-23 赵诗线2",
+            "subtitle": "赵诗线 地尽头",
+            "link": videoPrefix+"BV1qC4y1t7PH?p=3&t=4074"
         }, {
             "livers": ["jfn"],
             "title": "07-25 他人世界末 Part 2",
@@ -3034,6 +3222,11 @@ var onlookerLiveData = {
             "title": "0718 他人世界末 木竹樱线",
             "subtitle": "木竹樱线 Stargazer 第一章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=10&t=373"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 21-32-11",
+            "subtitle": "木竹樱线 第一章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=33&t=12662"
         }
     ],
     "smzy-02": [
@@ -3067,6 +3260,11 @@ var onlookerLiveData = {
             "title": "0718 他人世界末 木竹樱线",
             "subtitle": "木竹樱线 Stargazer 第二章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=10&t=940"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 21-32-11",
+            "subtitle": "木竹樱线 第二章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=33&t=15540"
         }
     ],
     "smzy-03": [
@@ -3100,6 +3298,11 @@ var onlookerLiveData = {
             "title": "0718 他人世界末 木竹樱线",
             "subtitle": "木竹樱线 Stargazer 第三章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=10&t=1215"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 21-32-11",
+            "subtitle": "木竹樱线 第三章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=33&t=16359"
         }
     ],
     "smzy-04": [
@@ -3133,6 +3336,16 @@ var onlookerLiveData = {
             "title": "0718 他人世界末 木竹樱线",
             "subtitle": "木竹樱线 Stargazer 第四章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=10&t=1740"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-23 21-32-11",
+            "subtitle": "木竹樱线 第四章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=33&t=17168"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-24 19-07-49(00h00m00s-02h33m47s)",
+            "subtitle": "木竹樱线 第四章结尾",
+            "link": videoPrefix+"BV1QT4y157Wm?p=34&t=476"
         }
     ],
     "smzy-05": [
@@ -3171,6 +3384,11 @@ var onlookerLiveData = {
             "title": "0718 他人世界末 木竹樱GE&TE",
             "subtitle": "木竹樱线 Stargazer 第五章后半",
             "link": videoPrefix+"BV1FA411v7MW?p=11"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-24 19-07-49(00h00m00s-02h33m47s)",
+            "subtitle": "木竹樱线 第五章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=34&t=546"
         }
     ],
     "smzy-06": [
@@ -3204,6 +3422,11 @@ var onlookerLiveData = {
             "title": "0718 他人世界末 木竹樱GE&TE",
             "subtitle": "木竹樱线 Stargazer 第六章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=11&t=201"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-24 19-07-49(00h00m00s-02h33m47s)",
+            "subtitle": "木竹樱线 第六章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=34&t=1652"
         }
     ],
     "smzy-07": [
@@ -3237,6 +3460,11 @@ var onlookerLiveData = {
             "title": "0718 他人世界末 木竹樱GE&TE",
             "subtitle": "木竹樱线 Stargazer 第七章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=11&t=942"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-24 19-07-49(00h00m00s-02h33m47s)",
+            "subtitle": "木竹樱线 第七章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=34&t=4998"
         }
     ],
     "smzy-08": [
@@ -3270,6 +3498,11 @@ var onlookerLiveData = {
             "title": "0718 他人世界末 木竹樱GE&TE",
             "subtitle": "木竹樱线 Stargazer 第八章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=11&t=1959"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-24 19-07-49(00h00m00s-02h33m47s)",
+            "subtitle": "木竹樱线 第八章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=34&t=7348"
         }
     ],
     "smzy-09": [
@@ -3303,6 +3536,16 @@ var onlookerLiveData = {
             "title": "0718 他人世界末 木竹樱GE&TE",
             "subtitle": "木竹樱线 Stargazer 第九章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=11&t=2625"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-24 19-07-49(00h00m00s-02h33m47s)",
+            "subtitle": "木竹樱线 第九章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=34&t=8070"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-24 19-07-49(02h33m47s-05h07m34s)",
+            "subtitle": "木竹樱线 第九章后半",
+            "link": videoPrefix+"BV1QT4y157Wm?p=35"
         }
     ],
     "smzy-10": [
@@ -3336,6 +3579,11 @@ var onlookerLiveData = {
             "title": "0718 他人世界末 木竹樱GE&TE",
             "subtitle": "木竹樱线 Stargazer 第十章开始",
             "link": videoPrefix+"BV1FA411v7MW?p=11&t=4063"
+        }, {
+            "livers": ["chiharu"],
+            "title": "2020-08-24 19-07-49(02h33m47s-05h07m34s)",
+            "subtitle": "木竹樱线 第十章开始",
+            "link": videoPrefix+"BV1QT4y157Wm?p=35&t=1516"
         }
     ],
     "smzy-11": [
