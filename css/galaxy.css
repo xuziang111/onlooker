@@ -28,6 +28,20 @@ body {
     -moz-animation: move-golink-2 8s linear infinite;
 }
 
+.pang {
+    background-image: url(https://cdn.jsdelivr.net/gh/mihirukiss/onlooker@1.4/img/pang.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+
+.pang a {
+    color: inherit;
+    position: absolute;
+}
+
 @-moz-keyframes move-golink-1 {
     25% {
         -moz-transform: translate(0, 10px);
