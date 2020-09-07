@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightcoral;
+}
+
+.nosofa-img, .nosofa-text, .nosofa-description, .link {
+    text-align: center;
+}
+
+.nosofa-img img{
+    max-width: 100%;
+}
+
+.nosofa-text {
+    font-size: 5em;
+}
+
+.link p {
+    padding-top: 1em;
+}
+
+.link a {
+    color: inherit;
+}
